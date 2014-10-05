@@ -4,7 +4,7 @@ This Spark application performs one of the most fundamental operations in genomi
 
 ## Requirements
 * Spark 1.1.0
-* Scala 2.10
+* Scala 2.10.4
 * [sbt](scala-sbt.org)
 
 ## Instructions
